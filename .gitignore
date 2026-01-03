@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java compiled
+*.class
+out/
+
+# Claude Code
+.claude/
